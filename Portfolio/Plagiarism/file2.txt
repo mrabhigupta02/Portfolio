@@ -1,0 +1,15 @@
+Why python is most preferred language by hackers?
+
+
+You know that your system is always susceptible to anonymous hackers, for the purpose of exploiting system vulnerabilities. System hacking is one scary cyber trend which is fast catching on. What support do these system hackers actually need to crack the privacy of your data? The sophistication of these cyber attackers and the ease with which they attack your system can be attributed to their deep technical knowledge and knowhow.
+
+Python is a great language not just because it is widely used in software development, web frameworks and applications, but the dynamic programming language can be used for everything that is built on Java platform. Python is an advanced scripting language which can readily connect existing components together. What further empowers the hackers is that there are a lot of python-modules that can help hackers to write exploit scripts.
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel architecto repellendus eos.
+Fugit numquam eum odit ipsa hic sunt corrupti alias, placeat impedit beatae aperiam cumque exercitationem similique atque.
+
+Error optio voluptate quidem aliquam neque reprehenderit laboriosam, aliquid vel commodi quas. Libero, culpa exercitationem eum omnis consequuntur dolor.
+Delectus nemo porro saepe rem id in numquam neque! A, ut, veniam consequatur beatae in eum adipisci, officia iste iure repellendus dolorum minima quibusdam.
+Exercitationem vitae non quos illum.
+Fugit numquam eum odit ipsa hic sunt corrupti alias, placeat impedit beatae aperiam cumque exercitationem similique atque.
+It requires a deep technical knowledge, knowledge of methodical testing and a good understanding of networking. Python is one programming language which can help break into the big databases. It is the most loved code cracker for hackers all over the world
