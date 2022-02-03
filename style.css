@@ -1,8 +1,8 @@
 /* display background color black on navbar scroll */
-/* .navbarScroll.navbarDark {
-	background-color: RED;
+.navbarScroll.navbarDark {
+	background-color: black;
 	navbar-dark navbarScroll
-} */
+} 
 
 /* hero background image */
 ul li a{
