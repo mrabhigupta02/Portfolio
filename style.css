@@ -10,7 +10,7 @@ ul li a{
 }
 .bgimage {
     height:100vh;
-    background-image: url('/img/bgimg.jpg');
+    background-image: url('/img/bgimg.jpg/');
     background-size:cover;
     position:relative;
 }
