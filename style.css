@@ -8,6 +8,7 @@
 ul li a{
 	color: white;
 }
+/* bgimg */
 .bgimage {
     height:100vh;
     background-image: url('bgimg.jpg');
